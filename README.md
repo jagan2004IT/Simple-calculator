@@ -14,6 +14,8 @@ Controls / Functionality
 
  - Last operation will show up above the input box every time any of the operators is selected.
 
+![calculator](https://github.com/user-attachments/assets/9e094b8f-ec12-455f-92af-b075cbad1b41)
+
 Contributions
 
  - Feel free to suggest any improvements by creating an issue.
